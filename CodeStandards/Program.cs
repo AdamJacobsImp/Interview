@@ -31,7 +31,24 @@ public static class Program
         sw.Stop();
         Console.WriteLine($"Finished {numRuns} runs in {sw.ElapsedMilliseconds}ms. Avg: {sw.ElapsedMilliseconds / numRuns}ms");
     }
+    public static class StringMatch
+    {
+        static string matchString = "Improveasy";
 
+        public static int CaseInsensitiveMatches(IEnumerable<string> searchStrings)
+        {
+            int count = 0;
+            foreach (string str in searchStrings)
+            {
+                if (str.ToLower() == matchString.ToLower())
+                {
+                    count++;
+                }
+            }
+
+            return count;
+        }
+    }
 
     public static class Conditionals
     {
@@ -66,26 +83,5 @@ public static class Program
             Thread.Sleep(500);
             return true;
         }
-    }
-
-    public static class StringMatch
-    {
-        static string matchString = "Improveasy";
-
-        public static int CaseInsensitiveMatches(IEnumerable<string> searchStrings)
-        {
-            int count = 0;
-            foreach (string str in searchStrings) 
-            { 
-                if(str.ToLower() == matchString.ToLower())
-                {
-                    count++;
-                }
-            }
-
-            return count;
-        }
-
-
     }
 }
