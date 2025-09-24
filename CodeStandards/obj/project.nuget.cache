@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJqmKFYUtg4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AdamJacobs\\Interviews\\BaseFiles\\CodeStandards\\CodeStandards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdamJacobs\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

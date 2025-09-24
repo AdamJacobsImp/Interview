@@ -1,0 +1,17 @@
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\CodeStandards.exe
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\CodeStandards.deps.json
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\CodeStandards.runtimeconfig.json
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\CodeStandards.dll
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\CodeStandards.pdb
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.AssemblyInfoInputs.cache
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.AssemblyInfo.cs
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.csproj.CoreCompileInputs.cache
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.dll
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\refint\CodeStandards.dll
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.pdb
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.genruntimeconfig.cache
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\ref\CodeStandards.dll
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\bin\Debug\net9.0\Bogus.dll
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStandards.csproj.AssemblyReference.cache
+C:\Users\AdamJacobs\Interviews\BaseFiles\CodeStandards\obj\Debug\net9.0\CodeStan.8F283226.Up2Date
